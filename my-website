@@ -1,0 +1,21 @@
+</head>
+<body>
+    <img src="photo.png" alt="my profile" width="200" height="300">
+    <h1>HI, MY NAME IS JAYVEER GOND</h1>
+    <h2>FUN FACTS ABOUT ME</h2>
+    <ul>
+        <li><b>AGE:</b> 19</li>
+        <li><b>Occupation:</b> Student</li>
+        <li><b>Country:</b> Indian</li>
+    </ul>
+
+    <p>Please connect with me if you like:</p>
+
+    <button onclick="window.open('https://wa.me/+919721115721', '_blank')">WhatsApp</button>
+    <button onclick="window.open('https://www.instagram.com/its_jayveer_07/', '_blank')">Instagram</button>
+    <br><br>
+    <input type="text" placeholder="Enter your email">
+    <button>Join Here</button>
+</body>
+</html>
+             
